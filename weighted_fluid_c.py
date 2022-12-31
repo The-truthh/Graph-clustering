@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-#    Copyright (C) 2017
-#    All rights reserved.
-#    BSD license.
-"""Asynchronous fluid communities algorithm for community detection."""
-
 from collections import Counter
 import random
 
